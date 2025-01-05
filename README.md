@@ -15,7 +15,6 @@ Vehicles play a crucial role in public mobility, and accurate vehicle type recog
 
 ### **Dataset Overview** 📂  
 The dataset used is the **Vehicle Type Recognition Dataset** from Kaggle, which contains images of vehicles in four categories: **Car**, **Truck**, **Motorcycle**, and **Bus**. The dataset includes 400 images with a relatively balanced distribution across each category (100 images per category).  
-- **Dataset URL**: [Vehicle Type Recognition Dataset](https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition)
 
 ### **Model Performance** 🏆  
 - The initial model using a simple CNN showed unsatisfactory results with an **accuracy of 59.38%** and **loss of 1.0070** on the test data.  
@@ -45,6 +44,7 @@ For this project, a simple Streamlit interface has been developed to allow users
 ### **Links** 🔗  
 - **Model URL**: [View Model](https://drive.google.com/file/d/1dKua6wNV9w9--BpgKm_qfdKnlD3s-QMD/view?usp=sharing)  
 - **Deployment URL**: [Hugging Face Space](https://huggingface.co/spaces/rafinadhiya/gc7)
+- - **Dataset URL**: [Vehicle Type Recognition Dataset](https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition)
 
 ---
 
