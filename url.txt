@@ -1,0 +1,3 @@
+Dataset URL: https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition
+Model URL: https://drive.google.com/file/d/1dKua6wNV9w9--BpgKm_qfdKnlD3s-QMD/view?usp=sharing
+Deployment URL: https://huggingface.co/spaces/rafinadhiya/gc7
